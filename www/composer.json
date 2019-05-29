@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+    },
+    "require": {
+        "fzaninotto/faker": "1.8.0",
+        "altorouter/altorouter": "1.2.0"
+    }
+}
